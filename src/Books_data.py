@@ -59,4 +59,4 @@ df_books["Words"] = df_books["Words"].str.replace(' Words','')
 df_books["Age"] = df_books["Age"].str.replace('Ages ','')
 
 #CREATED A CSV FILE USING DATAFRAME CREATED
-df_books.to_csv(r'C:\Users\rodriguezjos\OneDrive - VMware, Inc\VMwareCorp\Desktop\Master Data Sciences\3- II Semestre 2019\Tipologia y cliclo de vida de los datos\PRAC 1\Books_dataset.csv', index=False)
+df_books.to_csv(r'C:\Users\rodriguezjos\Master Data Sciences\Tipologia y cliclo de vida de los datos\PRAC 1\Books_dataset.csv', index=False)
