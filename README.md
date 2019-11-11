@@ -9,7 +9,7 @@ Durante el curso "Tipología y ciclo de vida de los datos" del Master in Data Sc
 Para ello, se selecciono la pagina de libros BookRix y la subcategoria science fiction, debido al intenetes personal en este tipo de libros.
 
 # Ficheros
-- src/books_data.py: contiene el codigo de python donde se se le hace web scrapping al sitio de BookRix para extraer datos relacionados al nombre del libro, del autor, idioma, numero de visitas, veces que ha sido el libro marcado como favorito; para finalmente, crear un archivo csv.
+- src/books_full_dataset.py: contiene el codigo de python donde se se le hace web scrapping al sitio de BookRix para extraer datos relacionados al nombre del libro, del autor, idioma, numero de visitas, veces que ha sido el libro marcado como favorito; para finalmente, crear un archivo csv.
 
 # Recursos
 - Subirats, L., Calvo, M. (2018). Web Scraping. Editorial UOC.
