@@ -64,5 +64,3 @@ df_books.drop_duplicates(subset ="First Name", keep = False, inplace = True)
 
 #CREATED A CSV FILE USING DATAFRAME CREATED
 df_books.to_csv(r'C:\Users\rodriguezjos\OneDrive - VMware, Inc\VMwareCorp\Desktop\Master Data Sciences\3- II Semestre 2019\Tipologia y cliclo de vida de los datos\PRAC 1\Books_dataset_vf.csv', index=False)
-
-libros = pd.read_csv('C:\Users\rodriguezjos\OneDrive - VMware, Inc\VMwareCorp\Desktop\Master Data Sciences\3- II Semestre 2019\Tipologia y cliclo de vida de los datos\PRAC 1\Books.csv')
