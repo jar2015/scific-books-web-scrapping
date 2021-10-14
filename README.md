@@ -3,15 +3,15 @@
 # Autor
 Jose Antonio Rodriguez Guzman
 
-# Descripcion 
-Durante el curso "Tipología y ciclo de vida de los datos" del Master in Data Science de la UOC, se nos solicito seleccionar una pagina web y aplicar en ella tecnicas de web scrapping por medio de herramientas como Python o R y asi, generar un dataset. 
+# Description
+During the course "Typology and life cycle of data" of the Master in Data Science at the UOC, we were asked to select a web page and apply web scrapping techniques to it using tools such as Python or R and thus generate a dataset.
 
-Para ello, se selecciono la pagina de libros BookRix y la subcategoria science fiction, debido al intenetes personal en este tipo de libros.
+To do this, I chose a book website called BookRix and the sub-category science fiction, due to personal interest in these types of books.  
 
-# Ficheros
-- src/books_full_dataset.py: contiene el codigo de python donde se se le hace web scrapping al sitio de BookRix para extraer datos relacionados al nombre del libro, del autor, idioma, numero de visitas, veces que ha sido el libro marcado como favorito; para finalmente, crear un archivo csv.
+# Files
+- src/books_full_dataset.py: it contains the python code where the BookRix site is web scraped to extract data related to the name of the book, the author, language, number of visits, times the book has been marked as a favorite; to finally create a csv file. 
 
-# Recursos
+# Resources
 - Subirats, L., Calvo, M. (2018). Web Scraping. Editorial UOC.
 
 - Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd. Chapter 2. Scraping the Data.
